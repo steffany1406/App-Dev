@@ -1,7 +1,5 @@
 # App-Dev
-My First Repository 
-![Hunter x Hunter](https://upload.wikimedia.org/wikipedia/en/3/3f/Hunter_x_Hunter_vol_1.png)
-
+![Hunter x Hunter](https://m.media-amazon.com/images/M/MV5BYzYxOTlkYzctNGY2MC00MjNjLWIxOWMtY2QwYjcxZWIwMmEwXkEyXkFqcGc@._V1_.jpg)
 # 🎯 Hunter x Hunter
 
 ## **Overview**
